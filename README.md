@@ -1,4 +1,4 @@
-# customer-chatbot- Project 
+# GYM-BOT: AI-Powered Chatbot for Gym Assistance 💪🤖
 This Python code is for building and training a neural network chatbot model that classifies user inputs into predefined intents. Here's a breakdown of the code:
 
 # 1. Importing Libraries
