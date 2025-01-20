@@ -83,7 +83,8 @@
 ---
 
 ## **Demo**
-![GYM-BOT Screenshot](assets/demo_screenshot.png)  
+![image](https://github.com/user-attachments/assets/b59b2816-0e68-4733-ad9d-bba2054f0a8c)
+
 *A sleek, easy-to-use interface with intelligent responses to user queries.*
 
 ---
@@ -93,10 +94,8 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ---
 
-## **License**
-This project is open-source and licensed under the MIT License.
 
----
+
 
 ## **Contact**
 **Developer**: Mohit Pathak  
